@@ -5,7 +5,7 @@ A simple terminal-based to-do list application built with Python.
 It allows users to add tasks, view tasks, mark tasks as completed, and remove tasks.  
 Tasks are saved locally so they persist between sessions.
 
-# Demo image
+### Demo image
 ![Terminal To-Do List App Screenshot](assets/demo1.png)
 
 ![Terminal To-Do List App Screenshot](assets/demo2.png)
