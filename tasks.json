@@ -14,5 +14,13 @@
     {
         "title": "Fishing",
         "done": false
+    },
+    {
+        "title": "learn",
+        "done": false
+    },
+    {
+        "title": "build",
+        "done": false
     }
 ]
